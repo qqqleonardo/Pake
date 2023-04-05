@@ -1,2 +1,3 @@
 name(Linux),name(Mac/Windows),name_zh,url
-Emby,Emby,Emby,http://192.168.2.188:8096/
+emby,emby,emby,http://192.168.2.188:8096/
+nastool,NasTool,影视管理,http://192.168.2.188:3000/
